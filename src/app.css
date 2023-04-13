@@ -2,7 +2,6 @@
     display: flex;
 }
 
-.others {
+.home {
     flex: 4;
-    background-color: darkcyan;
 }
